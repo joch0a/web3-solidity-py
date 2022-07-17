@@ -139,3 +139,10 @@ Add SPDX License Identifier
 
 
 # Lesson 1: Storage Factory
+
+Da la posibilidad a los ususarios de crear y deployar otros contratos
+
+Para interactuar con los storages necesitamos
+
+// Address
+// ABI Application binary interface
