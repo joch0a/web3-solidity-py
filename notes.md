@@ -117,3 +117,25 @@ Scalability:
 - Layer 2: Any app built on top of a layer 1
 
 # Lesson 1: Simple storage
+
+
+Define Solidity version =>0.6.0 <0.9.0
+
+Define a contract -> class in java
+
+Types and variables: https://docs.soliditylang.org/en/v0.8.11/types.html
+
+View & pure -> do not modify state.
+pure -> do some math but not modify state
+
+struct -> way to create new objects
+
+memory vs storage
+
+Memory -> se guardan solo en execucion
+Storage -> se queda dsp de la execucion
+
+Add SPDX License Identifier
+
+
+# Lesson 1: Storage Factory
