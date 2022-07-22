@@ -138,7 +138,7 @@ Storage -> se queda dsp de la execucion
 Add SPDX License Identifier
 
 
-# Lesson 1: Storage Factory
+# Lesson 2: Storage Factory
 
 Da la posibilidad a los ususarios de crear y deployar otros contratos
 
@@ -146,3 +146,22 @@ Para interactuar con los storages necesitamos
 
 // Address
 // ABI Application binary interface
+
+# Lesson 3: Fund Me
+
+payable -> Le indica a la funcion que va a recibir un pago
+i.e function fund() public payable
+
+Wei -> smaller unit to measure ether
+
+msg.sender -> who called the function
+msg.value -> value for the function
+
+
+Centralized oracles are point of failure.
+
+Anytime that we interact with another contract we will be using the ABI (Application binary interface)
+
+Library: Similar to contracts, but their purpose is that they are deployed only once at a specific address and their code is reused.
+
+Modifier: A modifier is used to change the behavior of a function in a declarative way
